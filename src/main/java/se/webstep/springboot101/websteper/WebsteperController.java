@@ -1,4 +1,4 @@
-package se.webstep.springboot101.employee;
+package se.webstep.springboot101.websteper;
 
 import static java.util.function.Function.identity;
 import static java.util.stream.Collectors.toList;

@@ -1,4 +1,4 @@
-package se.webstep.springboot101.employee;
+package se.webstep.springboot101.websteper;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
